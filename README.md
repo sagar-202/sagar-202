@@ -1,4 +1,4 @@
-]<h1 align="center">Hi, I'm Sagar Patgar 👋</h1>
+<h1 align="center">Hi, I'm Sagar Patgar 👋</h1>
 <h3 align="center">Data Analyst | SQL · Python · Power BI · Excel</h3>
 
 <p align="center">
@@ -57,9 +57,8 @@ A working library of SQL patterns used in business reporting — joins, window f
 
 ### 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](ADD-LINKEDIN-URL-HERE)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-patgar)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sagarpatgar@gmail.com)
-[![Resume](https://img.shields.io/badge/-Resume-000000?style=flat-square&logo=readdotcv&logoColor=white)](ADD-RESUME-LINK-HERE)
 
 ---
 
